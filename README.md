@@ -1,4 +1,4 @@
-## raylib-vscode-template
+## raylib-vscode-template-for-windows
 Raylib is a powerful library for coding games in c++. Here is a repository to help you out to kick-start your next game project!
 
 ### Steps:
